@@ -10,15 +10,8 @@ from sklearn.manifold import TSNE
 
 #%% Load Dataset
 
-DATASET_EXCEL = "dataset.xlsx"
-
-project_dir = os.getcwd()
-data_dir = os.path.join(project_dir, "dataset", "BTXRD")
-images_dir = os.path.join(data_dir, "images")
-metadata_path = os.path.join(data_dir, DATASET_EXCEL)
-
 #Read Excel
-df = pd.read_excel(metadata_path, engine='openpyxl')
+df = pd.read_excel(os.path.join(os.path.join(os.getcwd(), "dataset", "BTXRD"), "dataset.xlsx"), engine='openpyxl')
 
 #%% Tumor vs Normal Distribution
 
@@ -50,7 +43,7 @@ print("Image Dimensions Distribution")
 width = []
 height = []
 for image_filename in df['image_id']:
-    image_path = os.path.join(images_dir, image_filename)
+    image_path = os.path.join(os.path.join(os.path.join(os.getcwd(), "dataset", "BTXRD"), "images"), image_filename)
     if os.path.exists(image_path):
         img = cv2.imread(image_path)
         if img is not None:
@@ -79,7 +72,7 @@ labels = []
     
 # Dataset Loop
 for row_index, row in df.iterrows():
-        image_path = os.path.join(images_dir, row['image_id'])
+        image_path = os.path.join(os.path.join(os.path.join(os.getcwd(), "dataset", "BTXRD"), "images"), row['image_id'])
         if os.path.exists(image_path):
             img = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
             if img is not None:
