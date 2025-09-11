@@ -1,0 +1,8 @@
+Precision (No Tumour): 0.77
+Recall (No Tumour): 0.86
+F1 (No Tumour): 0.81
+Precision (Tumour): 0.85
+Recall (Tumour): 0.76
+F1 (Tumour): 0.80
+Accuracy: 0.81
+ROC-AUC: 0.882

@@ -1,0 +1,20 @@
+# pip install -r requirements.txt
+# Python 3.11
+ultralytics==8.3.189
+torch==2.3.0
+torchvision==0.18.0
+numpy==1.26.4
+pandas==2.2.2
+opencv-python-headless==4.9.0.80
+scikit-learn==1.5.0
+PyYAML==6.0.1
+shapely==2.0.4
+tqdm==4.66.4
+openpyxl==3.1.2
+torchaudio
+timm==0.9.16                
+albumentations==2.0.8
+matplotlib==3.8.4
+pillow==10.3.0               
+grad-cam==1.5.0
+scipy==1.12.0

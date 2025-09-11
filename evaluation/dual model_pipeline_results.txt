@@ -1,0 +1,3 @@
+Model: ConvNeXt-Tiny, Agreed: 88.7%, Accuracy: 93.2%
+Model: EfficientNet-B3, Agreed: 78.0%, Accuracy: 95.4%
+Model: MobileNetV3-Large, Agreed: 71.3%, Accuracy: 95.0%

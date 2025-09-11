@@ -1,0 +1,5 @@
+path: ../../Dataset/BTXRD_YOLO_MultiClass
+train: images/train
+val: images/val
+nc: 2
+names: [benign, malignant]

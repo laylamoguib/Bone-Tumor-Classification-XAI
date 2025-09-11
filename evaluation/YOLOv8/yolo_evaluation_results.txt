@@ -1,0 +1,10 @@
+Precision (No Tumour): 0.85
+Recall (No Tumour): 0.95
+F1 (No Tumour): 0.89
+Precision (Benign): 0.89
+Recall (Benign): 0.82
+F1 (Benign): 0.86
+Precision (Malignant): 0.84
+Recall (Malignant): 0.63
+F1 (Malignant): 0.72
+Accuracy: 0.86

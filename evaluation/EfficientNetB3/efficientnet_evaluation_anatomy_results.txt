@@ -1,0 +1,89 @@
+[HAND]
+Precision (No Tumour): 0.72
+Recall (No Tumour): 0.76
+F1 (No Tumour): 0.74
+Precision (Tumour): 0.75
+Recall (Tumour): 0.71
+F1 (Tumour): 0.73
+Accuracy: 0.74
+ROC-AUC: 0.848
+
+[ULNA]
+Precision (No Tumour): 0.65
+Recall (No Tumour): 0.79   
+F1 (No Tumour): 0.71       
+Precision (Tumour): 0.73   
+Recall (Tumour): 0.57
+F1 (Tumour): 0.64
+Accuracy: 0.68
+ROC-AUC: 0.821
+
+[RADIUS]
+Precision (No Tumour): 0.83
+Recall (No Tumour): 0.75
+F1 (No Tumour): 0.79
+Precision (Tumour): 0.77
+Recall (Tumour): 0.85
+F1 (Tumour): 0.81
+Accuracy: 0.80
+ROC-AUC: 0.875
+
+[HUMERUS]
+Precision (No Tumour): 0.84
+Recall (No Tumour): 0.78
+F1 (No Tumour): 0.81
+Precision (Tumour): 0.79
+Recall (Tumour): 0.86
+F1 (Tumour): 0.82
+Accuracy: 0.82
+ROC-AUC: 0.891
+
+[FOOT]
+Precision (No Tumour): 0.71
+Recall (No Tumour): 0.83
+F1 (No Tumour): 0.77
+Precision (Tumour): 0.80
+Recall (Tumour): 0.67
+F1 (Tumour): 0.73
+Accuracy: 0.75
+ROC-AUC: 0.729
+
+[TIBIA]
+Precision (No Tumour): 0.89
+Recall (No Tumour): 0.80
+F1 (No Tumour): 0.85
+Precision (Tumour): 0.82
+Recall (Tumour): 0.90
+F1 (Tumour): 0.86
+Accuracy: 0.85
+ROC-AUC: 0.930
+
+[FIBULA]
+Precision (No Tumour): 0.88
+Recall (No Tumour): 0.81
+F1 (No Tumour): 0.84
+Precision (Tumour): 0.83
+Recall (Tumour): 0.88
+F1 (Tumour): 0.85
+Accuracy: 0.85
+ROC-AUC: 0.925
+
+[FEMUR]
+Precision (No Tumour): 0.90
+Recall (No Tumour): 0.79
+F1 (No Tumour): 0.84
+Precision (Tumour): 0.81
+Recall (Tumour): 0.91
+F1 (Tumour): 0.86
+Accuracy: 0.85
+ROC-AUC: 0.943
+
+[HIP BONE]
+Precision (No Tumour): 0.92
+Recall (No Tumour): 0.79
+F1 (No Tumour): 0.85
+Precision (Tumour): 0.81
+Recall (Tumour): 0.93
+F1 (Tumour): 0.87
+Accuracy: 0.86
+ROC-AUC: 0.934
