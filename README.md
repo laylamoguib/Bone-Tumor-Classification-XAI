@@ -26,7 +26,7 @@ This document describes the supplementary materials developed, how to install an
 
 1. **BTXRD Figshare**: [https://figshare.com/articles/dataset/A\_Radiograph\_Dataset\_for\_the\_Classification\_Localization\_and\_Segmentation\_of\_Primary\_Bone\_Tumors/27865398?file=50653575](https://figshare.com/articles/dataset/A_Radiograph_Dataset_for_the_Classification_Localization_and_Segmentation_of_Primary_Bone_Tumors/27865398?file=50653575)
 
-2. **Full project GitHub repository**: **\[GitHub Link]**
+2. **Full project GitHub repository**: **\[[https://github.com/psxdj6/Bone-Tumor-Classification-XAI/tree/main](https://github.com/psxdj6/Bone-Tumor-Classification-XAI/tree/main)]**
 
 ---
 
