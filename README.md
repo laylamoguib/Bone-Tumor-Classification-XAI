@@ -9,6 +9,7 @@ This document describes the supplementary materials developed, how to install an
 1. **Download the full project that includes the BTXRD dataset from the GitHub repository**
 
    * GitHub: **\[GitHub Link]**
+   * If dowloading as zip, please download the ConvNeXt-Tiny.pt from the models folder mannually as downloading as ZIP can lead this model (>100MB) to have issues.
 
 2. **Or download dataset from FigShare and add to project files**
 
